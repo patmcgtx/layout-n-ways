@@ -1,7 +1,7 @@
 # layout-n-ways 𝌛
-Doing iOS UI layouts a few different ways to appreciate the pros and cons and sharpen my skills.
+Sample iOS UI layouts a few different ways (SwiftUI, UIKit storyboartds, UIKit in code).
 
-I'll pick a few iOS apps and figure out how to do that kind of layout on my own using different approaches.
+I'll pick a few iOS apps and figure out how to do that kind of layout on my own using different approaches to expand my perspective and to sharpen my skills.
 
 ## Motivation 💡
 
