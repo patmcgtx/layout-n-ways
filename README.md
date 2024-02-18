@@ -17,7 +17,7 @@ This is most of my professional day.  It is a rare case to create a brand new, c
 
 This project is my chance to expand my horizons.
 
-I am going to figure out how the UI for some of the top apps that I use on my iPhone, mostly made by , are done.  And I'm going to do each a couple of different ways (SwiftUI, UIKit with storyoards, maye even UIKit in code) to gain perspective and because the world is still very much in a mixed SwiftUI/UIKit mode.
+I am going to figure out how to implement the UI for some top iOS apps, mostly standards made by  such as Mail, Messages, Phone, Podcasts, News, Calendar 😮, Photos 😵‍💫, Maps 😱.  And I'm going to do each app a couple of different ways (SwiftUI, UIKit with storyoards, maye even UIKit in code) to gain perspective and because the world is still very much in a mixed SwiftUI/UIKit mode.
 
-With me luck. 🍀
+With me luck. 🍀  This is going to be a long-running, ever-developing project.
 
