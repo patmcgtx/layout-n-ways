@@ -11,7 +11,7 @@ Maybe it's a [storyboard](https://developer.apple.com/library/archive/documentat
 
 Maybe I'm jumping into a project that is a month old, and I need to work with two other developers to finish the feature as soon as possible.  The new feature is [SwiftUI](https://developer.apple.com/xcode/swiftui/), and it needs to integrate with a UIKit to fit into the rest of the app. ⎄
 
-Usually I have to learn on the fly.  Why are we getting an ambigious constraint error?  Could this be a content hugging issue? 🤗  Or is it compression resistence? ⇥ Did it work in the old OS and break in the new one?  Do I need to rethink the whoel layout?
+Usually I have to learn on the fly.  Why are we getting an ambigious constraint error?  Could this be a content hugging issue? 🤗  Or is it compression resistence? ⇥ Did it work in the old OS and break in the new one?  Do I need to rethink the whole layout to make this new feature work?
 
 This is most of my professional day.  It is a rare case to create a brand new, clean UI from scratch.  And we only work in so many different kinds of views.  And the UX team is overloaded or on loan from the web, so the design isnt always top-notch mobile.
 
